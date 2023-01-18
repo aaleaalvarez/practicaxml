@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<horario>
+    <dia nombre="lunes">
+        <clase hora="8:00">Programacion</clase>
+        <clase hora="9:00">Marcas</clase>
+        <clase hora="10:00">Entronos</clase>
+        <clase hora="11:30">Sisetmas</clase>
+        <clase hora="12:30">Base de Datos</clase>
+        <clase hora="13:30">Fol</clase>
+    </dia>
+    <dia nombre="martes">
+        <clase hora="8:00">Programacion</clase>
+        <clase hora="9:00">Marcas</clase>
+        <clase hora="10:00">Entronos</clase>
+        <clase hora="11:30">Sisetmas</clase>
+        <clase hora="12:30">Base de Datos</clase>
+        <clase hora="13:30">Fol</clase>
+    </dia>
+    <dia nombre="miercoles">
+        <clase hora="8:00">Programacion</clase>
+        <clase hora="9:00">Marcas</clase>
+        <clase hora="10:00">Entronos</clase>
+        <clase hora="11:30">Sisetmas</clase>
+        <clase hora="12:30">Base de Datos</clase>
+        <clase hora="13:30">Fol</clase>
+    </dia>
+    <dia nombre="jueves">
+        <clase hora="8:00">Programacion</clase>
+        <clase hora="9:00">Marcas</clase>
+        <clase hora="10:00">Entronos</clase>
+        <clase hora="11:30">Sisetmas</clase>
+        <clase hora="12:30">Base de Datos</clase>
+        <clase hora="13:30">Fol</clase>
+    </dia>
+    <dia nombre="viernes">
+        <clase hora="8:00">Programacion</clase>
+        <clase hora="9:00">Marcas</clase>
+        <clase hora="10:00">Entronos</clase>
+        <clase hora="11:30">Sisetmas</clase>
+        <clase hora="12:30">Base de Datos</clase>
+        <clase hora="13:30">Fol</clase>
+    </dia>
+    
+</horario>
+
